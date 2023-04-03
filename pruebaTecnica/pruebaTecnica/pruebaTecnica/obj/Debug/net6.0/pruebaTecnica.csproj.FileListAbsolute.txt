@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\bin\Debug\net6.0\pruebaTecnica.exe
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\bin\Debug\net6.0\pruebaTecnica.deps.json
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\bin\Debug\net6.0\pruebaTecnica.runtimeconfig.json
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\bin\Debug\net6.0\pruebaTecnica.dll
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\bin\Debug\net6.0\pruebaTecnica.pdb
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\obj\Debug\net6.0\pruebaTecnica.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\obj\Debug\net6.0\pruebaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\obj\Debug\net6.0\pruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\obj\Debug\net6.0\pruebaTecnica.AssemblyInfo.cs
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\obj\Debug\net6.0\pruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\obj\Debug\net6.0\pruebaTecnica.dll
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\obj\Debug\net6.0\refint\pruebaTecnica.dll
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\obj\Debug\net6.0\pruebaTecnica.pdb
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\obj\Debug\net6.0\pruebaTecnica.genruntimeconfig.cache
+C:\Users\felip\Documents\Desarrollo Frontend\pruebaTecnica\pruebaTecnica\pruebaTecnica\obj\Debug\net6.0\ref\pruebaTecnica.dll
