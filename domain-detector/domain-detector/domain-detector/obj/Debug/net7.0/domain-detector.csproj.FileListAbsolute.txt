@@ -1,0 +1,30 @@
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\bin\Debug\net7.0\domain-detector.exe
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\bin\Debug\net7.0\domain-detector.deps.json
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\bin\Debug\net7.0\domain-detector.runtimeconfig.json
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\bin\Debug\net7.0\domain-detector.dll
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\bin\Debug\net7.0\domain-detector.pdb
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.AssemblyInfo.cs
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.dll
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\obj\Debug\net7.0\refint\domain-detector.dll
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.pdb
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.genruntimeconfig.cache
+C:\Users\kevin\Desktop\development\projects\domain-detector\domain-detector\obj\Debug\net7.0\ref\domain-detector.dll
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\bin\Debug\net7.0\domain-detector.exe
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\bin\Debug\net7.0\domain-detector.deps.json
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\bin\Debug\net7.0\domain-detector.runtimeconfig.json
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\bin\Debug\net7.0\domain-detector.dll
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\bin\Debug\net7.0\domain-detector.pdb
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.AssemblyInfo.cs
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.dll
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\obj\Debug\net7.0\refint\domain-detector.dll
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.pdb
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\obj\Debug\net7.0\domain-detector.genruntimeconfig.cache
+C:\Users\felip\Documents\Desarrollo Frontend\domain-detector\domain-detector\domain-detector\obj\Debug\net7.0\ref\domain-detector.dll
